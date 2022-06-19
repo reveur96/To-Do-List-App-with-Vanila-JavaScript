@@ -2,6 +2,8 @@
 
 Overview 
  I make this for me to organize daily work.
+ I use the source from nomadcoders.
+ 
 
 Features
 1. clock
